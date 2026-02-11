@@ -1,6 +1,6 @@
 <div align="center">
 
-# QUICKSHOW 🎬🍿🎥
+# Cinevo 🎬🍿🎥
 
 *Seamless Video Discovery. Effortless Entertainment Experience*
 
